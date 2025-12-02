@@ -8,9 +8,9 @@ venv/
 env/
 *.env
 
-data/
-results/
-models/
+data/*
+results/*
+models/*
 *.pkl
 *.h5
 
